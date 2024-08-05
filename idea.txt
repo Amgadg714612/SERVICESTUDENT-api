@@ -1,0 +1,28 @@
+ I have an idea for a project that helps students solve questions and assignments.
+
+ It consists of two dashboards: The first one is for the student who logs in and subscribes to the application.
+  The subscription gives you the ability to upload assignments, and there are teachers available to solve them.
+   It also allows you to view solutions to previous questions.
+
+
+The second dashboard is for the teacher, showing all the unsolved questions. 
+The teacher can reserve a question and is given a time, like 60 minutes, to solve it during this time
+, and a notification of the solution is sent to the student.
+
+Firstly:
+ I have an idea for a project that helps students solve questions and assignments. 
+It consists of two dashboards: The first one is for the student who logs in and subscribes to the application.
+ The subscription gives you the ability to upload assignments, and there are teachers available to solve them.
+  It also allows you to view solutions to previous questions.
+
+The second dashboard is for the teacher, showing all the unsolved questions. 
+The teacher can reserve a question and is given a time, like 60 minutes,
+ to solve it during this time, and a notification of the solution is sent to the student.
+
+Secondly: A search engine that searches for solved questions within the site.
+
+Thirdly: The same as the second point, but instead of uploading a picture, it involves uploading a PDF file, and the most important thing is the payment methods, like a coupon.
+
+
+
+It’s all API work
